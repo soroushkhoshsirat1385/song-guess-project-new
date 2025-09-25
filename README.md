@@ -48,3 +48,15 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+
+# SongGuess App
+
+This is a React Native + Expo project for web and mobile.  
+It allows users to guess songs while testing audio playback.  
+
+## Tech Stack
+- React Native
+- Expo
+- Node.js
+- Web support via Expo
